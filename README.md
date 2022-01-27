@@ -1,7 +1,7 @@
 ## Olá! Eu sou, Wesley Monteiro.
 
-- 🔭 Hoje eu trabalho como Desenvolvedor RPA
-- 🌱 Sempre aprendendo ferramentas e automação
+- 🔭 Desenvolvedor FullStack Pleno
+- 🌱 Sempre aprendendo ferramentas e procurando me aprimorar cada vez mais.
 - 📫 Contate-me: wesley.almont@gmail.com
 - 😄 Pronouns: Ele/Dele
 
