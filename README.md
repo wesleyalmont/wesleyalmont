@@ -24,8 +24,3 @@
 
 </div>
     
-# Automação 
-<div style="display: flex; align-items:center; justify-content:center;">
-  <img width="100" height="auto"src="https://viaflow.com.br/wp/wp-content/uploads/2020/10/Automation-anywhere.png">
-  <img width="120" height="auto"src="https://catalyst.bizagi.com/wp-content/uploads/2020/09/logo-blue-prism.png"> 
-</div>
